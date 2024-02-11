@@ -83,8 +83,8 @@ alt=421104205_1112588316427435_3085584977259888265_n width="500"/>
 <h1 align="center"> Cartesian Manipulator (in Ceiling) </h1> 
 <div>
   <p align="center">
-  <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/assets/157677365/938fc120-758a-42f4-88e9-f2113a0e898b alt=Cartesian Manipulator in Ceiling style="width: 20%; float: left;">
-  <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/blob/19fba39655ec66eca3ec6df407109a4e4ef984fa/Kinematic%20Diagrams%20with%20D-H%20Parametric%20Tables/Cartesian.gif alt=giphy-2021-gifs-and-clips-animation-itsnicethat-02 style="width: 20%; float: right;">
+  <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/assets/157677365/938fc120-758a-42f4-88e9-f2113a0e898b alt=Cartesian Manipulator in Ceiling style="width: 45%; float: left;">
+  <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/blob/19fba39655ec66eca3ec6df407109a4e4ef984fa/Kinematic%20Diagrams%20with%20D-H%20Parametric%20Tables/Cartesian.gif alt=giphy-2021-gifs-and-clips-animation-itsnicethat-02 style="width: 100%; float: right;">
   </p>
 </div>
 <hr>
