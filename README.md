@@ -1,9 +1,14 @@
 # SPHERICAL_G7_Assignment_2024
 
 ## Table of Contents
-- [Spherical Manipulator - Modern Variant](#-spherical-manipulator---modern-variant-)
-- [SCARA - PRR Variant](#-scara---prr-variant-)
-- [Cartesian Manipulator in Ceiling](#-cartesian-manipulator-in-ceiling-)
+- [Kinematic Diagrams with Parametric Tables](#-kinematic-diagrams-with-parametric-tables-)
+  - [Spherical Manipulator - Modern Variant](#-spherical-manipulator---modern-variant-)
+  - [SCARA - PRR Variant](#-scara---prr-variant-)
+  - [Cartesian Manipulator in Ceiling](#-cartesian-manipulator-in-ceiling-)
+- [Simulation and Visualization of Forward Kinematics using MATLAB](#-simulation-and-visualization-of-forward-kinematics-using-matlab-)
+  - [Spherical Manipulator - Modern Variant](#-spherical-manipulator---modern-variant-)
+  - [SCARA - PRR Variant](#-scara---prr-variant-)
+  - [Cartesian Manipulator in Ceiling](#-cartesian-manipulator-in-ceiling-)
 - [Group Members:](#group-members)
 <br>
 
