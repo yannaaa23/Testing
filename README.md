@@ -2,7 +2,6 @@
 # SPHERICAL_G7_Assignment_2024
 
 
-
 ## Table of Contents
 - [KINEMATIC DIAGRAM AND PARAMETRIC TABLE](#-kinematic-diagram-with-parametric-table-)
   - [Spherical Manipulator - Modern Variant](#-spherical-manipulator---modern-variant-)
