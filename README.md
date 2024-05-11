@@ -1,7 +1,3 @@
-<p style="margin: 0; display: inline;">content1</p>
-<p style="margin: 0; display: inline;" align="right">content2</p>
-
-
 # testing
 # SPHERICAL_G7_Assignment_2024
 
